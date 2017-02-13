@@ -8,3 +8,6 @@ MVP Android Example used to explain how to use this pattern in our Android apps.
 [Android MVP @ LiME Creative Labs (Spanish)](http://www.limecreativelabs.com/mvp-android/)
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-androidmvp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/1514)
+
+Class Diagram Symbols:
+http://javarevisited.blogspot.be/2014/02/ifference-between-association-vs-composition-vs-aggregation.html
